@@ -2,122 +2,41 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Hello!
 
-[Link to another page](./another-page.html).
+My name is Josh Jewett. I am currently an Enterprise Security Engineer with a Bachelor of Science in Computer Science. I am passionate about weightlifting, science fiction novels, and I guess I also dabble in system design and architecture.
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+I created this portfolio as a showcase for myself, as well as a little pet project to work on and refine my skills.
 
 * * *
 
-### Here is an unordered list:
+### Skills and experience
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+Some of my skills I have developed in a traditional, structured higher education setting, others have been developed throughout my career, and then there are some I've done on my own for fun or just to flex. Some I attribute to my Bachelor of Science in Computer Science, AWS Cloud Practitioner, CompTIA Security+, and IBM Cloud Private Infrastructure and Architecture. All of the below include skills I have had exposure with, but not limited to:
 
-### And an ordered list:
+*   Computer Science as a whole
+*   Cybersecurity principles
+*   Cloud computing and architecture
+*   Python
+*   Ansible
+*   Containers
+*   
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+* * *
 
-### And a nested list:
+### Work Experience
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+I currently work at IBM and use to be in the Army National Guard for six years. Here's a sort of highlight reel for those.
 
-### Small image
+| Title                        | Company   | Years Active  |
+|:-----------------------------|:----------|:--------------|
+| Enterprise Security Engineer | IBM       | 2019 - Present|
+| CBRN NCO                     | ARNG      | 2015 - 2022   |
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+Check out my LinkedIn for more detail!
 
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+* * *
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+Feel free to reach out if you'd like to connect. Thanks in advance!
 ```
