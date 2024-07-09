@@ -11,7 +11,7 @@ body {
 }
 
 header, footer {
-    background-color: rgba(0, 0, 0, 0.8); /* Semi-transparent black */
+    background-color: #333;
     color: white;
     text-align: center;
     padding: 1em 0;
@@ -47,12 +47,12 @@ main {
 }
 
 .dark-mode {
-    background-color: rgba(18, 18, 18, 0.8); /* Semi-transparent dark mode */
+    background-color: #121212;
     color: #e0e0e0;
 }
 
 .dark-mode header, .dark-mode footer {
-    background-color: rgba(30, 30, 30, 0.8); /* Semi-transparent dark mode */
+    background-color: #1e1e1e;
     color: #e0e0e0;
 }
 
@@ -61,6 +61,6 @@ main {
 }
 
 .dark-mode button {
-    background-color: rgba(68, 68, 68, 0.8); /* Semi-transparent dark mode */
+    background-color: #444;
     color: #e0e0e0;
 }
