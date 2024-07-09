@@ -17,10 +17,12 @@ Some of my skills I have developed in a traditional, structured higher education
 *   Computer Science as a whole
 *   Cybersecurity principles
 *   Cloud computing and architecture
+*   Secrets management
+*   Linux server admin
+*   Bash scripting
 *   Python
 *   Ansible
 *   Containers
-*   
 
 * * *
 
